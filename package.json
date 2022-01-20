@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "sharp": "^0.29.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "convert_webp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
